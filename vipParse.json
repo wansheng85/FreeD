@@ -1,10 +1,16 @@
 {
   "data": [
     {
-      "id": 1,
-      "name": "线路1",
+      "id": 19,
+      "name": "自定义1",
       "ad": "no",
       "url": "http://106.52.93.12:81/jiexi/?url="
     },
+    {
+      "id": 19,
+      "name": "自定义2",
+      "ad": "no",
+      "url": "https://jx.banyung.xyz:7799/player/?url="
+    }
   ]
 }
